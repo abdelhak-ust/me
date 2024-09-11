@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at UST Global.<br>⚡AI Engineer<br>👯 Full Stack Dev.<br>🤝 Currently working on AI voice calls.<br>🌱 Currently doing a PhD in deep learning: Privacy preserving deep learning models
+🔭 I’m currently working at UST Global.<br>⚡AI Engineer<br>👯 Full Stack Dev.<br>🤝 Currently working on ...<br>🌱 Currently doing a PhD in deep learning: Privacy preserving deep learning models
 
 
 ## 🌐 Socials:
